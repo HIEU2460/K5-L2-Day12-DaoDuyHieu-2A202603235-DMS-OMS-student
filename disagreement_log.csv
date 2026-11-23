@@ -1,0 +1,6 @@
+﻿image,label,field,issue,mine,peer,verdict,guideline_rule,action
+D05.png,face,eye_left,khác giá trị (IoU=1.00),closed,unknown,mine,4.5,giữ closed vì quan sát thấy mí mắt trái khép
+D05.png,face13,left_eye_outer.occluded,khác cờ,1,0,ambiguous,4.6,giữ nguyên và hỏi coach về cờ điểm khi mắt khép
+D05.png,face13,left_eye_inner.occluded,khác cờ,1,0,ambiguous,4.6,giữ nguyên và hỏi coach về cờ điểm khi mắt khép
+D05.png,face13,left_eye_upper.occluded,khác cờ,1,0,ambiguous,4.6,giữ nguyên và hỏi coach về cờ điểm khi mắt khép
+D05.png,face13,left_eye_lower.occluded,khác cờ,1,0,ambiguous,4.6,giữ nguyên và hỏi coach về cờ điểm khi mắt khép
